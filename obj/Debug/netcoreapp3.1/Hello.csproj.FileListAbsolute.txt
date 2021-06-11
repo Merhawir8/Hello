@@ -1,0 +1,12 @@
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/bin/Debug/netcoreapp3.1/Hello.deps.json
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/bin/Debug/netcoreapp3.1/Hello.runtimeconfig.json
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/bin/Debug/netcoreapp3.1/Hello.runtimeconfig.dev.json
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/bin/Debug/netcoreapp3.1/Hello.dll
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/bin/Debug/netcoreapp3.1/Hello.pdb
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/obj/Debug/netcoreapp3.1/Hello.csprojAssemblyReference.cache
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/obj/Debug/netcoreapp3.1/Hello.AssemblyInfoInputs.cache
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/obj/Debug/netcoreapp3.1/Hello.AssemblyInfo.cs
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/obj/Debug/netcoreapp3.1/Hello.csproj.CoreCompileInputs.cache
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/obj/Debug/netcoreapp3.1/Hello.dll
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/obj/Debug/netcoreapp3.1/Hello.pdb
+/Users/merhawihuwarshek/Desktop/Coding_Dojo/C#/Installation/Hello/obj/Debug/netcoreapp3.1/Hello.genruntimeconfig.cache
